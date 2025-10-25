@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<signos>
+    <signo>
+        <dataInicio>21/03</dataInicio>
+        <dataFim>20/04</dataFim>
+        <signoNome>Áries</signoNome>
+        <imagem>https://static.wikia.nocookie.net/saintseiya/images/6/64/1-Aries_Gold_Cloth.jpg</imagem>
+        <caracteristicas>
+            <frase>Pioneiro e cheio de energia, Áries adora iniciar projetos.</frase>
+            <frase>Sua coragem e determinação abrem caminhos.</frase>
+            <frase>Tem a iniciativa como principal marca, mas precisa de paciência.</frase>
+        </caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>21/04</dataInicio>
+        <dataFim>20/05</dataFim>
+        <signoNome>Touro</signoNome>
+        <imagem>https://static.wikia.nocookie.net/saintseiya/images/1/12/2-Taurus_Gold_Cloth.jpg</imagem>
+        <caracteristicas>
+            <frase>Touro valoriza a estabilidade, o conforto e o prazer.</frase>
+            <frase>É conhecido pela lealdade, paciência e determinação.</frase>
+            <frase>Busca segurança em todas as áreas da vida.</frase>
+        </caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>21/05</dataInicio>
+        <dataFim>20/06</dataFim>
+        <signoNome>Gêmeos</signoNome>
+        <imagem>https://static.wikia.nocookie.net/saintseiya/images/7/7b/3-Gemini_Gold_Cloth.jpg</imagem>
+        <caracteristicas>
+            <frase>Gêmeos é comunicativo, curioso e extremamente versátil.</frase>
+            <frase>Adora trocar ideias e se adapta rapidamente a novos ambientes.</frase>
+            <frase>Possui uma mente ágil, mas pode ser indeciso.</frase>
+        </caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>21/06</dataInicio>
+        <dataFim>22/07</dataFim>
+        <signoNome>Câncer</signoNome>
+        <imagem>https://static.wikia.nocookie.net/saintseiya/images/7/7b/3-Gemini_Gold_Cloth.jpg</imagem>
+        <caracteristicas>
+            <frase>Câncer é emotivo, carinhoso e muito protetor.</frase>
+            <frase>Valoriza a família, o lar e tem uma forte intuição.</frase>
+            <frase>É sensível e pode ter mudanças de humor.</frase>
+        </caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>23/07</dataInicio>
+        <dataFim>22/08</dataFim>
+        <signoNome>Leão</signoNome>
+        <imagem>https://static.wikia.nocookie.net/saintseiya/images/0/01/5-Leo_Gold_Cloth.png</imagem>
+        <caracteristicas>
+            <frase>Leão é um líder natural, generoso e muito criativo.</frase>
+            <frase>Gosta de ser o centro das atenções e irradia autoconfiança.</frase>
+            <frase>É leal e busca reconhecimento por seu talento.</frase>
+        </caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>23/08</dataInicio>
+        <dataFim>22/09</dataFim>
+        <signoNome>Virgem</signoNome>
+        <imagem>https://static.wikia.nocookie.net/saintseiya/images/5/5e/6-Virgo_Gold_Cloth.png</imagem>
+        <caracteristicas>
+            <frase>Virgem é prático, analítico e focado nos detalhes.</frase>
+            <frase>Busca a perfeição e é muito prestativo e organizado.</frase>
+            <frase>Valoriza a saúde e a rotina bem estabelecida.</frase>
+        </caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>23/09</dataInicio>
+        <dataFim>22/10</dataFim>
+        <signoNome>Libra</signoNome>
+        <imagem>https://static.wikia.nocookie.net/saintseiya/images/a/ad/7-Libra_Gold_Cloth.jpg</imagem>
+        <caracteristicas>
+            <frase>Libra é justo, diplomático e busca harmonia nas relações.</frase>
+            <frase>É charmoso e valoriza a beleza e a estética.</frase>
+            <frase>Pode ter dificuldade em tomar decisões rápidas.</frase>
+        </caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>23/10</dataInicio>
+        <dataFim>21/11</dataFim>
+        <signoNome>Escorpião</signoNome>
+        <imagem>https://static.wikia.nocookie.net/saintseiya/images/7/73/Scorpio_Cloth567.jpg</imagem>
+        <caracteristicas>
+            <frase>Escorpião é intenso, passional e misterioso.</frase>
+            <frase>Possui grande força de vontade e emoções profundas.</frase>
+            <frase>Busca a verdade e o significado oculto das coisas.</frase>
+        </caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>22/11</dataInicio>
+        <dataFim>21/12</dataFim>
+        <signoNome>Sagitário</signoNome>
+        <imagem>https://static.wikia.nocookie.net/saintseiya/images/b/b5/9-Sagittarius_Gold_Cloth.png</imagem>
+        <caracteristicas>
+            <frase>Sagitário é otimista, aventureiro e ama a liberdade.</frase>
+            <frase>Tem um espírito filosófico e busca expandir o conhecimento.</frase>
+            <frase>Adora viagens e novas experiências.</frase>
+        </caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>22/12</dataInicio>
+        <dataFim>20/01</dataFim>
+        <signoNome>Capricórnio</signoNome>
+        <imagem>https://static.wikia.nocookie.net/saintseiya/images/7/7c/10-Capricorn_Gold_Cloth.jpg</imagem>
+        <caracteristicas>
+            <frase>Capricórnio é responsável, disciplinado e ambicioso.</frase>
+            <frase>Trabalha com foco total para alcançar seus objetivos.</frase>
+            <frase>Valoriza a segurança, a tradição e a maturidade.</frase>
+        </caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>21/01</dataInicio>
+        <dataFim>18/02</dataFim>
+        <signoNome>Aquário</signoNome>
+        <imagem>https://static.wikia.nocookie.net/saintseiya/images/6/6f/Aquarius_cloth_classic.png</imagem>
+        <caracteristicas>
+            <frase>Aquário é inovador, independente e focado no humanitarismo.</frase>
+            <frase>Possui uma mente original e pensa no futuro coletivo.</frase>
+            <frase>Valoriza a liberdade acima de todas as coisas.</frase>
+        </caracteristicas>
+    </signo>
+    <signo>
+        <dataInicio>19/02</dataInicio>
+        <dataFim>20/03</dataFim>
+        <signoNome>Peixes</signoNome>
+        <imagem>https://static.wikia.nocookie.net/saintseiya/images/9/9b/12-Pisces_Gold_Cloth.jpg</imagem>
+        <caracteristicas>
+            <frase>Peixes é sensível, intuitivo e extremamente sonhador.</frase>
+            <frase>É empático e muitas vezes se dedica a ajudar os outros.</frase>
+            <frase>Tem uma natureza artística e uma rica vida interior.</frase>
+        </caracteristicas>
+    </signo>
+</signos>

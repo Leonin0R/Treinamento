@@ -1,0 +1,80 @@
+.signo-img {
+    width: 150px;
+    height: 150px;
+    object-fit: contain; /* Mude de 'cover' para 'contain' se a imagem não for quadrada */
+    margin: 0 auto;
+    display: block !important; /* Garante que não está escondida */
+    opacity: 1 !important;     /* Garante opacidade total */
+}
+
+/* 1. Define o container do slider para cobrir toda a tela */
+#background-slider {
+    position: fixed; /* Fixa o background */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0; /* Fica atrás de tudo */
+    overflow: hidden;
+    background-color: #343a40; /* Cor de fallback */
+}
+
+/* 2. Estiliza as duas imagens (pseudo-elementos) */
+#background-slider::before,
+#background-slider::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0; /* Inicia transparente */
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    animation: backgroundFade 20s infinite; /* Duração do ciclo: 20s */
+    transform: scale(1.1);
+}
+
+/* 3. Imagem 1: Fundo Estrelado (Substitua por suas próprias URLs se preferir) */
+/* ... código anterior ... */
+
+/* 3. Imagem 1: Fundo Estrelado */
+#background-slider::before {
+    /* **ATENÇÃO: Mude para '../imgs/fundo1.jpg'** */
+    background-image: url('../imgs/fundo1.jpg'); 
+    animation-delay: 0s; 
+}
+
+/* 4. Imagem 2: Fundo Galáxia */
+#background-slider::after {
+    /* **ATENÇÃO: Mude para '../imgs/fundo2.jpg'** */
+    background-image: url('../imgs/fundo2.jpg');
+    animation-delay: 10s; 
+}
+
+/* ... restante do código backgroundFade ... */
+
+/* 5. Define a animação de Fade (Keyframes) */
+@keyframes backgroundFade {
+    0% {
+        opacity: 0;
+        transform: scale(1.1);
+    }
+    10% {
+        opacity: 1; /* Fade-in */
+        transform: scale(1);
+    }
+    40% {
+        opacity: 1; /* Permanece visível */
+        transform: scale(1.05);
+    }
+    50% {
+        opacity: 0; /* Fade-out */
+        transform: scale(1.1);
+    }
+    100% {
+        opacity: 0;
+        transform: scale(1.1);
+    }
+}
